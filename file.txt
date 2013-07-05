@@ -1,4 +1,3 @@
-line1
 line3
 
 added one more line
@@ -6,3 +5,4 @@ added one more line
 added a thirt line on github.com
 
 second line was removed!
+first line was removed as well!!
